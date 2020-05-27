@@ -7,7 +7,7 @@ class Main extends React.Component {
     render() {
         return (
             <View>
-            <Text>Новости</Text>
+            <Text>Главная</Text>
         </View>
         );
     }
