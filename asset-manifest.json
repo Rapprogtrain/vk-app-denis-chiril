@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.js": "/vk-app-denis-chiril/static/js/main.cab0657e.chunk.js",
+    "main.js.map": "/vk-app-denis-chiril/static/js/main.cab0657e.chunk.js.map",
+    "runtime-main.js": "/vk-app-denis-chiril/static/js/runtime-main.827110be.js",
+    "runtime-main.js.map": "/vk-app-denis-chiril/static/js/runtime-main.827110be.js.map",
+    "static/css/2.a28d9ceb.chunk.css": "/vk-app-denis-chiril/static/css/2.a28d9ceb.chunk.css",
+    "static/js/2.87e7efaa.chunk.js": "/vk-app-denis-chiril/static/js/2.87e7efaa.chunk.js",
+    "static/js/2.87e7efaa.chunk.js.map": "/vk-app-denis-chiril/static/js/2.87e7efaa.chunk.js.map",
+    "index.html": "/vk-app-denis-chiril/index.html",
+    "precache-manifest.1d06cee43887b59cf017b211813c2e2a.js": "/vk-app-denis-chiril/precache-manifest.1d06cee43887b59cf017b211813c2e2a.js",
+    "service-worker.js": "/vk-app-denis-chiril/service-worker.js",
+    "static/css/2.a28d9ceb.chunk.css.map": "/vk-app-denis-chiril/static/css/2.a28d9ceb.chunk.css.map",
+    "static/js/2.87e7efaa.chunk.js.LICENSE.txt": "/vk-app-denis-chiril/static/js/2.87e7efaa.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.827110be.js",
+    "static/css/2.a28d9ceb.chunk.css",
+    "static/js/2.87e7efaa.chunk.js",
+    "static/js/main.cab0657e.chunk.js"
+  ]
+}
