@@ -1,0 +1,540 @@
+[
+    {
+        "multi": false,
+        "id": 1,
+        "title": "Отжимания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1l53J1kmP8vfcob_Xd-RMX1PqMKBuMZi_",
+        "description": "Лягте на пол поддерживая свой вес руками. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 20 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 2,
+        "title": "Пресс",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1Nl57yWMWpFbA2k7i-p_IUHtXK1miCcMJ",
+        "description": "Лягте на спину и согните ноги в коленях. Медленно поднимайте голову в сторону колен.\n\n Медленно опустите голову обратно на пол.\n\n Повторяйте в течении одной минуты.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 3,
+        "title": "Прыжки",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1wlZFo3zT0XLvuKkupavh4aR9KlfRbbqW",
+        "description": "Прыгните, отталкиваясь ногами от пола и машите руками снизу вверх. Повторите 25 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 0.5,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 4,
+        "title": "Ножницы",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1EjG_P1U14Zgrl2b4-TCFsjGZdfK06rOY",
+        "description": "Лягте на спину, тяните пупок к позвоночнику и прижимайте поясницу к полу. Поднимите вверх обе ноги до угла в 45 градусов, вытяните носочки. Начните медленно скрещивать ноги. Выполните 10–15 повторений на каждую. Можете усложнить упражнение, накинув на ноги петли эспандера.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0.2,
+        "ads_level_to_hands": 1,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": true,
+        "id": 101,
+        "title": "Начальный уровень",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 1,
+                "title": "Отжимания"
+            },
+            {
+                "id": 2,
+                "title": "Пресс"
+            },
+            {
+                "id": 3,
+                "title": "Прыжки"
+            },
+            {
+                "id": 4,
+                "title": "Ножницы"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 102,
+        "title": "Средний уровень 1",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 5,
+                "title": "Скручивания лягушкой"
+            },
+            {
+                "id": 6,
+                "title": "Велосипед"
+            },
+            {
+                "id": 7,
+                "title": "Полубанан"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 103,
+        "title": "Средний уровень 2",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 8,
+                "title": "Обратный скручивания"
+            },
+            {
+                "id": 9,
+                "title": "Скручивания"
+            },
+            {
+                "id": 10,
+                "title": "V-образные подъёмы корпуса с согнутыми ногами"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 104,
+        "title": "Средний уровень 3",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 11,
+                "title": "Подъём рук и ног"
+            },
+            {
+                "id": 12,
+                "title": "Широкие отжимания"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 105,
+        "title": "Средний уровень 4",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 13,
+                "title": "Отжимания на коленях"
+            },
+            {
+                "id": 14,
+                "title": "Приседания"
+            },
+            {
+                "id": 15,
+                "title": "Подъём на насочки"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 106,
+        "title": "Сложный уровень 1",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 16,
+                "title": "Отжимания"
+            },
+            {
+                "id": 17,
+                "title": "Подъём ног"
+            },
+            {
+                "id": 18,
+                "title": "Отжимания звёздочкой"
+            }
+        ]
+    },
+    {
+        "multi": true,
+        "id": 107,
+        "title": "Сложный уровень 2",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.25,
+        "ads_level_to_body": 0.2,
+        "ads_level_to_legs": 0,
+        "exercise": [
+            {
+                "id": 19,
+                "title": "Вращение рукой в планке"
+            },
+            {
+                "id": 20,
+                "title": "Супремен"
+            },
+            {
+                "id": 21,
+                "title": "Бег с высоким подъемом колен"
+            },
+            {
+                "id": 22,
+                "title": "Касание плеч в планке"
+            }
+        ]
+    },
+    {
+        "multi": false,
+        "id": 5,
+        "title": "Скручивания лягушкой",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1dOO5b6-Rm17An5CbXoRzIMxpU7qN2IjO",
+        "description": "Сядьте на пол, вес расположите на седалищных костях. Подайте назад спину, чтобы удержать равновесие, согните колени и оторвите от пола стопы. Выдохните, подтяните пупок к позвоночнику и откиньтесь назад, раскрывая руки и выпрямляя ноги. Со вдохом вернитесь в исходное положение с коленями у груди. Повторите 20 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 0.4,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 6,
+        "title": "Велосипед",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=11k1ZOYaOD_yfbvI9Vhm_YDRRNdPa-aCL",
+        "description": "Лягте на пол, прижмите поясницу к полу, руки уберите за голову. Подтяните колени к груди и оторвите от пола лопатки. Выпрямите правую ногу невысоко от пола, а тело поверните в левую сторону, коснувшись правым локтем левого колена. В этом движении поворачивается вся грудная клетка, а не только локоть. Выполните упражнение в другую сторону. Это одно повторение. Выполните 25 повторений.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 7,
+        "title": "Полубанан",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1ePE-MRcX2NudsHDp-NKz4dzAjM10B3AL",
+        "description": "Лягте на пол, выпрямите ноги, руки вытяните перед собой. С выдохом поднимите корпус и левую ногу, руки стремятся к левой стопе. Зафиксируйте позу в крайнем положении и медленно вернитесь обратно. Повторите скручивание к другой ноге. Продолжая чередовать стороны, повторите 20 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 8,
+        "title": "Обратные скручивания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1dOO5b6-Rm17An5CbXoRzIMxpU7qN2IjO",
+        "description": "Лягте на пол, положите руки по сторонам от туловища ладонями вниз. Поднимите ноги, согнутые в коленях, чтобы они располагались на уровне груди. Оторвите бёдра от пола, поднимая ноги выше. Опустите ноги обратно на пол и повторите 2–3 раза. Не используйте инерцию, движение нужно совершать за счёт мышц, поэтому выполняйте его медленно.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 9,
+        "title": "Скручивания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1dOO5b6-Rm17An5CbXoRzIMxpU7qN2IjO",
+        "description": "Сядьте на пол, согните колени, стопы поставьте на пятки, откиньте корпус назад, спина прямая. Удерживая руки перед грудью, поверните корпус вправо, затем влево — это одно повторение. Выполните упражнение 15 раз. Если хотите усложнить упражнение, оторвите стопы от пола.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 10,
+        "title": "V-образные подъёмы корпуса с согнутыми ногами",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1O_hw-s79cqi5daRiXJLVFGBjumFVl2D1",
+        "description": "Лягте на пол, вытяните ноги, руки вдоль туловища. Поднимите невысоко от пола ноги и плечи — это исходное положение. Поднимите корпус с прямой спиной и согнутые в коленях ноги, на полу остаётся только таз. Вернитесь в исходное положение и повторите 25 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 11,
+        "title": "Подъём рук и ног",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1TH1mvcz4HDoC-vQWhCc9KTiQXYtt5bby",
+        "description": "Лягте на живот, поднимите руки над головой. Вытягивайте живот, чтобы защитить и удлинить нижнюю часть спины. Поднимите прямые ноги, руки и голову. Поднимите правую ногу и левую руку чуть выше, затем опустите их ниже и поднимите левую ногу и правую руку. Продолжайте медленно чередовать руки и ноги, не болтайтесь, удерживайте корпус на месте. Повторите 20 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 12,
+        "title": "Широкие отжимания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1yLLvYhrbje75qmcOvQ27WFF52WOOoKpm",
+        "description": "Лягте на пол поддерживая свой вес руками, раздвиньте руки шире. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 13,
+        "title": "Отжимания на коленях",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=13FeUuoGpOXrWHVwcQKe9QPE13tYH1gOJ",
+        "description": "Лягте на пол поддерживая свой вес руками. Упритесь об пол коленями. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 14,
+        "title": "Приседания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1Rh_YjgrUUQJnYQrh6_HaXOJKiEIgPYFa",
+        "description": "Лягте на пол поддерживая свой вес руками. Упритесь об пол коленями. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 10 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 15,
+        "title": "Подъём на носочки",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1AFYTwKl8upAw4Unyr0uH_joCCQe3gREp",
+        "description": "Упритесь в стену на выпрямленные руки. Медленно подымайтесь на носочки и затем так же медленно опускайтесь. Повторите 10 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 16,
+        "title": "Отжимания",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1l53J1kmP8vfcob_Xd-RMX1PqMKBuMZi_",
+        "description": "Лягте на пол поддерживая свой вес руками. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 20 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 17,
+        "title": "Подъём ног",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1Rg6HAJ8oH1OIW0ikX5k-ZGVkihyLZywW",
+        "description":"Лягте на одну из сторон. Медленно подымайте ногу, затем так же медленно опускайте. Повторите 25 раз. Затем поменяйте сторону и снова выполните 25 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 18,
+        "title": "Отжимания звёздочкой",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1FxnZOmLM7XOfyC2Pnyu-SwxziKMiFC40",
+        "description":"Лягте на пол поддерживая свой вес руками. Пальцы рук должны прикасаться друг к другу и формировать звёздочку. Руками поднимайте своё тело, не двигая ноги. Держите тело ровным. Повторите 15 раз.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 19,
+        "title": "Вращение рукой в планке",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1wfVvIQzHf6A-HErxGQ-yu6OC2gJZufmA",
+        "description":"Примите положение планки на руках, ноги немного расставлены. Тело образует прямую линию, поясница не прогибается, пресс подтянут. Оторвите одну ладонь от пола и выполните круговое движение прямой рукой. Вернитесь в исходное положение. Затем проделайте тоже самое второй рукой. Выполните 15 повторений на каждую руку.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 20,
+        "title": "Супермен",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1XUzrboqnHtcwzpSET1wtVnY2AwCUW4h7",
+        "description":"Это еще одно очень полезное упражнение для осанки и позвоночника. Лягте на живот, голова опущена на коврик. Руки вытянуты вперед ладонями вниз. Оторвите одновременно от пола голову, грудь, бедра и поднимите их максимально вверх. Задержитесь на несколько секунд и затем вернитесь в исходное положение. Не тяните шею вверх, она сохраняет естественное положение. Выполните 15 повторений.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 21,
+        "title": "Бег с высоким подъемом колен",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1hjCHBjVIPDjJvxq7NSEUxCRkYr-CnYjQ",
+        "description":"Быстро подымайте колени до уровня пояса. Сначала левую ногу, затем правую. Выполняйте это в виде бега 30 секунд.",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    },
+    {
+        "multi": false,
+        "id": 22,
+        "title": "Касание плеч в планке",
+        "image": "https://drive.google.com/uc?export=view&id=1aZecb65NSWR0HSAGpXyHuy0pRE_LOIZi",
+        "imageGif" : "https://drive.google.com/uc?export=view&id=1troOCnKNIQGEOjimVfGlnuLOmEhRsqpT",
+        "description":"Примите положение планки на руках, ноги немного расставлены. Тело образует прямую линию, поясница не прогибается, пресс подтянут. Оторвите одну ладонь от пола и коснитесь ею противоположное плечо. Вернитесь в исходное положение. ",
+        "level_hands_has_to_min": 0,
+        "level_body_has_to_min": 0,
+        "level_legs_has_to_min": 0,
+        "ads_level_to_hands": 0.2,
+        "ads_level_to_body": 1,
+        "ads_level_to_legs": 1,
+        "time": 60,
+        "sum": 20
+    }
+]
